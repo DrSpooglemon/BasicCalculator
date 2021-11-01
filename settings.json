@@ -1,0 +1,22 @@
+{
+    "color": {
+        "foreground": {
+        }, 
+        "background": {
+            "button_normal": [0, 0, 0, 1], 
+            "button_down": [0, 1, 0, 1], 
+            "display": [0, 0, 0, 1], 
+            "screen": [1, 1, 1, 1]
+        }, 
+        "text": {
+            "button": [1, 1, 1, 1],
+            "display": [1, 1, 1, 1]
+        }
+    },
+    "image": {
+        "background": "img/default_background_image.png",
+        "button": {
+            "default": "img/default_button_image.png"
+        }
+    }
+}
